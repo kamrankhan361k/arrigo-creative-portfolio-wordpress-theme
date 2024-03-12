@@ -1,0 +1,9 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">arr_portfolio</custom-type>
+    <custom-type translate="1">arr_services</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">arr_portfolio_category</taxonomy>
+  </taxonomies>
+</wpml-config>
